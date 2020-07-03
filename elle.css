@@ -1,0 +1,82 @@
+.gen{
+    width: 80%;
+    height: 60%;
+    margin-left: 10%;
+}
+
+.int{
+    width: 28%;
+    margin: 2%;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.gen2{
+    width: 80%;
+    height: 10%;
+    margin-left: 15%;
+}
+
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 25%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+h1:hover{
+    background-color: pink;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    text-align: center;
+    margin-left: 25%;
+}
+p:hover{
+    text-decoration: underline lightpink;
+}
+img{
+    margin-left: 20%;
+}
+h2{
+    font-size: 30px;
+    padding-left: 10%;
+}
+hr{
+    width: 40%;
+    margin-right: 25%;
+}
+h4{
+    font-size: 25px;
+}
+.deux h1
+{
+    display: table-cell;
+    float: left;
+    margin-left: 0px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+ .deux p{
+
+    display: table-cell;
+    text-align:left;
+    font-weight: bold;
+    text-shadow: 0 0 4px gray;
+    padding-top: 20%;
+    padding-left: 10%;
+ }
+
+ .ligne{
+     height: 100px;
+ }
+ .ligne hr{
+    width: 80%;
+    text-align: right;
+    border-radius: 40%;
+ }
